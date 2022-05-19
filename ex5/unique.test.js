@@ -1,5 +1,6 @@
 const unique = requre('./unique');
 
 test('<テストで確かめること>', () => {
-    // expect, toBe を使って、適切なテストを作ってください。
+    // expect, toEqual を使って、適切なテストを作ってください。
+    // 配列の比較にtoBeは使えないことに注意してください。
 });
