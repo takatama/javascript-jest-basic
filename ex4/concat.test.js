@@ -1,4 +1,4 @@
-const concat = requre('./concat');
+const concat = require('./concat');
 
 test('<テストで確かめること>', () => {
     // expect, toEqual を使って、適切なテストを作ってください。
